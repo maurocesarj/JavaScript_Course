@@ -1,0 +1,3 @@
+Nesta aula #011 foi apresentado os conceitos condicionais 
+na linguagem de java script 
+Fiz 2 exercicos de IF e ELSE

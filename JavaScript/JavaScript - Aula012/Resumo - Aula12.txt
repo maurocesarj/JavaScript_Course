@@ -1,0 +1,7 @@
+Aula 13 JavaScript
+Aprendemos a usar if dentro de um else em uma
+estrutura simples e também o uso do switch para 
+case cm numeros extatos
+
+Também foi usado o get do Javascript para pegar
+data, horas entre outros dados.

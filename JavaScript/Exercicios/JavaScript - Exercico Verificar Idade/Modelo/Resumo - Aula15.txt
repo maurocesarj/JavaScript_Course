@@ -1,0 +1,5 @@
+Resumo aula 15
+Fiz o exercicio de verificação de idade, novamente precisei usar imagens, mas gostei bastante do resultado
+e com isso eu finalizei o modulo D que era sobre IF e Else
+
+- A aula 15 será de muita importancia de base para exercicios futuros meus.

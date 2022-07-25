@@ -1,0 +1,5 @@
+Resumo exercicio Tabuada 
+
+Por conta do exercicio anterior eu passei por menos problemas para resolver e encontrar uma solução, o uso do while foi algo automatico além de aprender a usar a estrutura select e suas 'options', novamente voltando a criar elementos no HTML usando o Js como base.
+
+

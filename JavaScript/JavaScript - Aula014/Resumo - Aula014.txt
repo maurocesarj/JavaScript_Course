@@ -1,0 +1,3 @@
+Reusmo aula 14 
+
+Conheci o uso do For no javascript e também o uso do debuguer para correr linha por linha em um codigo em busca de algum erro.

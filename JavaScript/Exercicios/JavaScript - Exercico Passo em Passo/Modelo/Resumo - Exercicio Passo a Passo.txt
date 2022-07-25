@@ -1,0 +1,5 @@
+Exercicio Passo em Passo
+
+o uso do for é algo que tenho que continuar praticando mas creio que após este exercicio eu esclareci algumas duvidas e estou começando a entrar na ideia de programação de javascript
+
+um dos problemas foi eu ter esquecido de converter o value no html para Number()

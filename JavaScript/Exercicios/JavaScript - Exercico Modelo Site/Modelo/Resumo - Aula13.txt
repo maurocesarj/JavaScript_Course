@@ -1,0 +1,7 @@
+Aula 13 
+Iniciamos a constução do nosso site para realizar o exercico das horas do dia e da idade 
+
+Css foi apresentado de uma forma bem simples e didatica e com certeza voltarei a usar modelos como este apresentado na aula em futuros projetos pessoais 
+
+Também tirei a duvida de como criar e manipular os arquivos dentro de um html (css e js)
+Com uma facil criação.

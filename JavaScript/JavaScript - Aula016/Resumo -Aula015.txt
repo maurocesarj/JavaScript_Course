@@ -1,0 +1,3 @@
+Resumo Aula 15
+
+Começamos a utilizar vetores e aparentemente é mais facil que em python, todos os comandos apresentados nesta aula estão anotadas dentro do arquivo teste.js na pasta aula 15

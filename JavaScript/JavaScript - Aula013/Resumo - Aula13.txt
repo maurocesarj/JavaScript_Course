@@ -1,0 +1,5 @@
+Resumo aula 13 
+
+Estrutura de repetição while foi apresentada, o mesmo conceito é bem semelhante com o de Python 
+
+Fizemos apenas alguns testes usando o node.js 
